@@ -1,0 +1,1 @@
+A demo project for the react-native-swiper component (https://github.com/leecade/react-native-swiper)
