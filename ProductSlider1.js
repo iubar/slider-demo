@@ -111,7 +111,7 @@ const styles = StyleSheet.create({
     flex: 1
   },
   wrapper: {
-    flex: 1
+   
   },
   banner: {
     marginTop: 1,
