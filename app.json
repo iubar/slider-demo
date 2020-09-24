@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Slider Test",
-    "slug": "slider-test",
+    "name": "Slider Demo",
+    "slug": "slider-demo",
     "privacy": "public",
     "platforms": [
       "ios",
