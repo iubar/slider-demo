@@ -1,6 +1,6 @@
 import React from "react";
 import { StyleSheet, Text, View, Dimensions } from "react-native";
-import ProductSlider1 from "./ProductSlider1";
+import ProductSlider1 from "./src/components/ProductSlider1";
 
 const { width, height } = Dimensions.get("window");
 
